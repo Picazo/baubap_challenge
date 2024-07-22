@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BaubapChallenge</string>
+    <string name="login_button">Log In</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="password_placeholder">Password</string>
+    <string name="email_placeholder">Email</string>
+    <string name="signup_prompt">Don\'t have an account?</string>
+    <string name="signup_action">Sign up.</string>
+    <string name="logo_description">logo</string>
+    <string name="close_app_description">close app</string>
+    <string name="dialog_btn_confirm">OK</string>
+    <string name="dialog_title">¡Éxito!</string>
+    <string name="dialog_message">¡Inicio de sesión exitoso!</string>
+</resources>
